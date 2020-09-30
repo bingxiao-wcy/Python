@@ -13,4 +13,4 @@ wordcloud.ipynb is generate wordcloud picture.
 PS:
 If you want to generate a Chinese wordcloud, you should make a little change.
 The picture shows online to have a little problem.
-
+The code doesn't fit with the file name like job_url.csv was renamed before.
