@@ -1,5 +1,16 @@
 Download data analysis job detail set from https://www.shixiseng.com/, then cut off none meaning words, select others to respect creat a Chinese wordcloud, and English wordcloud.  
-Using model like pandas, wordcloud, request, jieba, matplotlib, bs4, re and so on.
-data.csv is row data
-new_data.txt is processed by jieba, is composeed by words.
+Using models like pandas, wordcloud, request, jieba, matplotlib, bs4, re, and so on.
+
+data.csv is job_detail row data.
+new_data.txt is processed by jieba, is made up of words.
+simfang.ttf is Chinese font software.
+job_url.csv is all HTML URL we are going to download the raw data.
+
+Corwjob.ipynb is generate job_url.
+crow_job_detail.ipynb is generate data.csv.
+wordcloud.ipynb is generate wordcloud picture.
+
+PS:
+If you want to generate a Chinese wordcloud, you should make a little change.
+The picture shows online to have a little problem.
 
