@@ -1,0 +1,2 @@
+Download data analysis job detail set from https://www.shixiseng.com/, then cut off none meaning words, select others to respect creat a Chinese wordcloud, and English wordcloud.  
+Using model like pandas, wordcloud, request, jieba, matplotlib, bs4, re and so on.
