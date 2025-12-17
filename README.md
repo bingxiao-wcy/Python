@@ -1,5 +1,5 @@
 ## 新项目
-### [招聘JD项目（2025年9月，大模型实践）(https://github.com/bingxiao-wcy/Python/tree/master/%E7%B2%BE%E7%BE%8E%E5%9B%BE%E7%89%87%E
+### [招聘JD项目（2025年9月，大模型实践）][(https://github.com/bingxiao-wcy/Python/tree/master/%E7%B2%BE%E7%BE%8E%E5%9B%BE%E7%89%87%E](https://github.com/bingxiao-wcy/Python/tree/master/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8B%9B%E8%81%98%E9%9C%80%E6%B1%82%E5%AE%9E%E8%B7%B5)
 1. 调用request库爬取20+站点的招聘数据、面经数据
 2. python清洗，正则+simhash过滤低质、广告等脏数据，使用6维DQ评分评估数据质量（语义完整性、关键词覆盖度等）
 3. 扣子空间搭建多条工作流、插件，创建招聘智能体
